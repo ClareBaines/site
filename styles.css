@@ -1,6 +1,9 @@
 :root {
   --bs-primary: #FFAADD;
   --bs-link-color: #FFAADD;
+  --bs-link-color-rgb: 255, 170, 221;
+  --bs-link-hover-color: #fcc4e5;
+  --bs-link-hover-color-rgb: 252, 196, 229;
 }
 
 body {
