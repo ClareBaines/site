@@ -1,3 +1,7 @@
+:root {
+  --bs-primary: #FFAADD;
+}
+
 body {
   font-family: 'Oswald';
   font-size: 22px;
