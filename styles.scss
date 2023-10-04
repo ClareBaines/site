@@ -10,6 +10,6 @@ body {
   margin-top:auto;
 }
 
-.link {
-  color: #FFAADD;
-}
+$primary: #FFAADD;
+
+@import "~node_modules/bootstrap/scss/bootstrap";
